@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44E3A950-70C3-4FCF-92E8-8C10701D5BC9}|ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos.csproj|c:\\users\\diego\\onedrive\\documentos\\topicos proyectos\\proyectotallerbasedatos\\proyectotallerbasedatos\\frontend\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E3A950-70C3-4FCF-92E8-8C10701D5BC9}|ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos.csproj|solutionrelative:proyectotallerbasedatos\\frontend\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E3A950-70C3-4FCF-92E8-8C10701D5BC9}|ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos.csproj|c:\\users\\diego\\onedrive\\documentos\\topicos proyectos\\proyectotallerbasedatos\\proyectotallerbasedatos\\frontend\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E3A950-70C3-4FCF-92E8-8C10701D5BC9}|ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos.csproj|solutionrelative:proyectotallerbasedatos\\frontend\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E3A950-70C3-4FCF-92E8-8C10701D5BC9}|ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos.csproj|c:\\users\\diego\\onedrive\\documentos\\topicos proyectos\\proyectotallerbasedatos\\proyectotallerbasedatos\\frontend\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44E3A950-70C3-4FCF-92E8-8C10701D5BC9}|ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos.csproj|solutionrelative:proyectotallerbasedatos\\frontend\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E3A950-70C3-4FCF-92E8-8C10701D5BC9}|ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos.csproj|c:\\users\\diego\\onedrive\\documentos\\topicos proyectos\\proyectotallerbasedatos\\proyectotallerbasedatos\\frontend\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44E3A950-70C3-4FCF-92E8-8C10701D5BC9}|ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos.csproj|solutionrelative:proyectotallerbasedatos\\frontend\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E3A950-70C3-4FCF-92E8-8C10701D5BC9}|ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos.csproj|c:\\users\\diego\\onedrive\\documentos\\topicos proyectos\\proyectotallerbasedatos\\proyectotallerbasedatos\\backend\\clsdaousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E3A950-70C3-4FCF-92E8-8C10701D5BC9}|ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos.csproj|solutionrelative:proyectotallerbasedatos\\backend\\clsdaousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E3A950-70C3-4FCF-92E8-8C10701D5BC9}|ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos.csproj|c:\\users\\diego\\onedrive\\documentos\\topicos proyectos\\proyectotallerbasedatos\\proyectotallerbasedatos\\clases\\clsusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E3A950-70C3-4FCF-92E8-8C10701D5BC9}|ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos.csproj|solutionrelative:proyectotallerbasedatos\\clases\\clsusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E3A950-70C3-4FCF-92E8-8C10701D5BC9}|ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos.csproj|c:\\users\\diego\\onedrive\\documentos\\topicos proyectos\\proyectotallerbasedatos\\proyectotallerbasedatos\\clases\\clsusuariosregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E3A950-70C3-4FCF-92E8-8C10701D5BC9}|ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos.csproj|solutionrelative:proyectotallerbasedatos\\clases\\clsusuariosregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E3A950-70C3-4FCF-92E8-8C10701D5BC9}|ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos.csproj|c:\\users\\diego\\onedrive\\documentos\\topicos proyectos\\proyectotallerbasedatos\\proyectotallerbasedatos\\frontend\\frmregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E3A950-70C3-4FCF-92E8-8C10701D5BC9}|ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos.csproj|solutionrelative:proyectotallerbasedatos\\frontend\\frmregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E3A950-70C3-4FCF-92E8-8C10701D5BC9}|ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos.csproj|c:\\users\\diego\\onedrive\\documentos\\topicos proyectos\\proyectotallerbasedatos\\proyectotallerbasedatos\\frontend\\frmverusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E3A950-70C3-4FCF-92E8-8C10701D5BC9}|ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos.csproj|solutionrelative:proyectotallerbasedatos\\frontend\\frmverusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos\\Frontend\\frmLogin.cs",
+              "RelativeDocumentMoniker": "ProyectoTallerBaseDatos\\Frontend\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos\\Frontend\\frmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoTallerBaseDatos\\Frontend\\frmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T01:29:56.238Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos\\Frontend\\frmMenu.cs",
+              "RelativeDocumentMoniker": "ProyectoTallerBaseDatos\\Frontend\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos\\Frontend\\frmMenu.cs",
+              "RelativeToolTip": "ProyectoTallerBaseDatos\\Frontend\\frmMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T01:03:26.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmVerUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos\\Frontend\\frmVerUsuarios.cs",
+              "RelativeDocumentMoniker": "ProyectoTallerBaseDatos\\Frontend\\frmVerUsuarios.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos\\Frontend\\frmVerUsuarios.cs",
+              "RelativeToolTip": "ProyectoTallerBaseDatos\\Frontend\\frmVerUsuarios.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwGQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T01:03:31.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmRegistrarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos\\Frontend\\frmRegistrarUsuario.cs",
+              "RelativeDocumentMoniker": "ProyectoTallerBaseDatos\\Frontend\\frmRegistrarUsuario.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos\\Frontend\\frmRegistrarUsuario.cs",
+              "RelativeToolTip": "ProyectoTallerBaseDatos\\Frontend\\frmRegistrarUsuario.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAkwMkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T01:03:39.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsDaoUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos\\Backend\\clsDaoUsuarios.cs",
+              "RelativeDocumentMoniker": "ProyectoTallerBaseDatos\\Backend\\clsDaoUsuarios.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos\\Backend\\clsDaoUsuarios.cs",
+              "RelativeToolTip": "ProyectoTallerBaseDatos\\Backend\\clsDaoUsuarios.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAgwKAAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T01:03:51.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos\\Frontend\\frmLogin.cs",
+              "RelativeDocumentMoniker": "ProyectoTallerBaseDatos\\Frontend\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos\\Frontend\\frmLogin.cs",
+              "RelativeToolTip": "ProyectoTallerBaseDatos\\Frontend\\frmLogin.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T00:50:50.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos\\Frontend\\frmMenu.cs",
+              "RelativeDocumentMoniker": "ProyectoTallerBaseDatos\\Frontend\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos\\Frontend\\frmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoTallerBaseDatos\\Frontend\\frmMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T01:29:49.13Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsUsuariosRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos\\Clases\\clsUsuariosRegistro.cs",
+              "RelativeDocumentMoniker": "ProyectoTallerBaseDatos\\Clases\\clsUsuariosRegistro.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos\\Clases\\clsUsuariosRegistro.cs",
+              "RelativeToolTip": "ProyectoTallerBaseDatos\\Clases\\clsUsuariosRegistro.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T01:04:04.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos\\Clases\\clsUsuarios.cs",
+              "RelativeDocumentMoniker": "ProyectoTallerBaseDatos\\Clases\\clsUsuarios.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoTallerBaseDatos\\ProyectoTallerBaseDatos\\Clases\\clsUsuarios.cs",
+              "RelativeToolTip": "ProyectoTallerBaseDatos\\Clases\\clsUsuarios.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T01:03:57.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
